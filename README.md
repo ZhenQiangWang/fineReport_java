@@ -11,3 +11,4 @@
 2. 调用指定路径pythob脚本，路径及传参(模板参数\查询条件)
 3. 脚本接收参数执行指定逻辑并返回给程序数据集
 4. 程序数据集获取返回值，判断数据类型：数据？log？并执行相关逻辑
+### 调用的python脚本详见：https://github.com/ZhenQiangWang/fineReport_python
