@@ -12,3 +12,6 @@
 3. 脚本接收参数执行指定逻辑并返回给程序数据集
 4. 程序数据集获取返回值，判断数据类型：数据？log？并执行相关逻辑
 ### 调用的python脚本详见：https://github.com/ZhenQiangWang/fineReport_python
+
+[调用的python]: https://github.com/ZhenQiangWang/fineReport_python	"调用的python脚本"
+
